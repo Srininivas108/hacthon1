@@ -1,0 +1,41 @@
+.poke-container{
+    min-width: 1000px;
+    display: flex;
+    justify-content: center;
+   
+    display :flex;
+  flex-wrap:wrap;
+    align-items: center;
+    justify-content: center;
+    gap:20px;
+
+}
+.body{
+    
+
+    display :flex;
+
+    align-items: center;
+    justify-content: center;
+    background: rosybrown;
+
+}
+.pokemon{
+    background-color: #eee;
+    border-radius: 20px;
+    box-shadow: 3px 3px 10px 0px (rgba (50,50,50,0.1));
+    padding: 20px;
+    font-size: 17px;
+    font-family: 'Roboto', sans-serif;
+
+}
+.pagination{
+    display: flex;
+    flex-direction: row;
+    gap:10px;
+    margin: 10px;
+    align-items: center;
+    justify-content: center;
+
+}
+
